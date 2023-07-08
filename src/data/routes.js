@@ -1,28 +1,28 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
-    path: "/",
+    label: 'Adrian Dosal',
+    path: '/',
   },
   {
-    label: "About",
-    path: "/about",
+    label: 'Sobre mí',
+    path: '/about',
   },
   {
-    label: "Resume",
-    path: "/resume",
+    label: 'Curriculum',
+    path: '/resume',
   },
   {
-    label: "Projects",
-    path: "/projects",
+    label: 'Proyectos',
+    path: '/projects',
   },
   // {
   //   label: 'Stats',
   //   path: '/stats',
   // },
   {
-    label: "Contact",
-    path: "/contact",
+    label: 'Contacto',
+    path: '/contact',
   },
 ];
 

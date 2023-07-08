@@ -25,7 +25,7 @@ const Index = () => (
         {/* view <Link to="/stats">site statistics</Link>, {' '} */}
         o <Link to="/contact">contactarme</Link>.
       </p>
-      <p> Source available <a href="https://github.com/AdrDosal/personal-site">here</a>.</p>
+      <p> Código de la página disponible <a href="https://github.com/AdrDosal/personal-site">aquí</a>.</p>
     </article>
   </Main>
 );
