@@ -19,9 +19,9 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hola, soy Adrian Dosal. Graduado en la <a href="https://www.uv.es/">Universidad de Valencia</a>
-        e Ingeniero de Datos en Azure en <a href="https://www.hiberus.com/">Hiberus Tecnología</a>.
-        Anteriormente he trabajado para <a href="https://bahiasoftware.es">Bahía Software</a> y para
+      <p>Hola, soy Adrian Dosal. Graduado en la <a href="https://www.uv.es/">Universidad de Valencia </a>
+        e Ingeniero de Datos en Azure, trabajando actualmente en <a href="https://www.hiberus.com/">Hiberus Tecnología</a>.
+        Anteriormente he trabajado para <a href="https://bahiasoftware.es">Bahía Software</a> y
         <a href="https://www.capgemini.com/es-es/"> Capgemini</a>.
       </p>
       <ul className="actions">

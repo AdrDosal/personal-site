@@ -13,10 +13,10 @@
  */
 const work = [
   {
-    name: 'Smile Identity',
-    position: 'VP Engineering & Head of AI',
-    url: 'https://smileidentity.com',
-    startDate: '2022-01-01',
+    name: 'Hiberus Tecnología',
+    position: 'Ingeniero de Datos en Azure',
+    url: 'https://www.hiberus.com/',
+    startDate: '2022-07-11',
     summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
     used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
     I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
