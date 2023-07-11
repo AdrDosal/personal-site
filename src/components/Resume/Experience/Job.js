@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import dayjs from 'dayjs';
 import Markdown from 'markdown-to-jsx';
+import 'dayjs/locale/es';
 
 const Job = ({
   data: {
@@ -11,7 +12,7 @@ const Job = ({
   <article className="jobs-container">
     <header>
       <h4><a href={url}>{name}</a> - {position}</h4>
-      <p className="daterange"> {dayjs(startDate).format('MMMM YYYY')} - {endDate ? dayjs(endDate).format('MMMM YYYY') : 'PRESENT'}</p>
+      <p className="daterange">  {dayjs(startDate).locale('es').format('MMMM YYYY')} - {endDate ? dayjs(endDate).locale('es').format('MMMM YYYY') : 'PRESENTE'}</p>
     </header>
     {summary ? (
       <Markdown

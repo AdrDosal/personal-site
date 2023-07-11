@@ -16,7 +16,7 @@ const work = [
     name: 'Hiberus Tecnología',
     position: 'Ingeniero de Datos en Azure',
     url: 'https://www.hiberus.com/',
-    startDate: '2022-07-11',
+    startDate: '2022-07',
     summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
     used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
     I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
@@ -36,7 +36,8 @@ const work = [
     name: 'Bahía Sofware',
     position: 'Senior Software Engineer',
     url: 'http://skepticalinvestments.biz',
-    startDate: '2017-04-01',
+    startDate: '2021-09',
+    endDate: '2022-07',
     summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
     YC companies.`,
     highlights: [
@@ -46,15 +47,13 @@ const work = [
   },
   {
     name: 'Capgemini',
-    position: 'Consultor',
-    url: 'https://arthena.com',
-    startDate: '2014-01-01',
-    endDate: '2022-01-01',
-    summary: `Arthena is a Series A Company funded by <a href="https://www.anthemis.com/">Athemis</a>,
-    <a href="https://foundationcapital.com">Foundation Capital</a>, and <a href="https://ycombinator.com/">YC</a>.
-    We develop quantitative strategies to predict the value of fine art and build investment products.
-    I ran a 20-person product and engineering org for 8 years. We were acquired by
-    <a href="https://www.masterworks.com/">Masterworks</a> in 2023.`,
+    position: 'Consultor IT',
+    url: 'https://www.capgemini.com',
+    startDate: '2019-02',
+    endDate: '2021-09',
+    summary: `Antes de finalizar mi tiempo en prácticas me incorporé como empleado a tiempo completo en Capgemini como consultor,
+    trabajando principalmente en un rol de Ingeniero de Datos y cómo Científico de Datos cuando la situación lo requiriese.
+    Durante los años que estuve en Capgemini, he trabajado para diversos clientes en varios sectores.`,
     highlights: [
       'Built production, online, end-to-end optimized machine learning pipelines for time-series prediction.',
       'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
@@ -66,16 +65,17 @@ const work = [
   {
     name: 'Capgemini',
     position: 'Becario Cientifico de Datos',
-    url: 'http://enveritas.org',
-    startDate: '2016-09-01',
-    endDate: '2018-01-01',
-    summary: `Enveritas is a non-profit that works with coffee farmers to improve their livelihoods.
-    I joined on day one and helped build a variety of tools to collect and analyze data. I also advised
-    on technical strategy, helped hire engineers, and advised on their YC application.`,
+    url: 'https://www.capgemini.com',
+    startDate: '2018-10',
+    endDate: '2019-02',
+    summary: `Capgemini es una empresa global de consultoria, servicios de tecnología y transformación digital.
+    Una vez finalizada mi formación en el master de Ciencia de Datos, entré como becario Cientifico de Datos.
+    Durante la estancia en Capgemini he podido aplicar mis conocimientos teóricos en problemas reales.`,
     highlights: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      "Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM's, and other techniques.",
+      'Creación de un cuadro de mando y mostrase los resultados de un modelo de machine learning sobre detección de anomalías.',
+      'Utilización de computer vision para seguir a clientes en tiempo real, predicción de su sexo y edad. Construcción de un cuadro de mando donde se muestre la información relevante.',
+      'Modelos predictivos para el número de ventas diarias con el objetivo de minimizar los productos no vendidos perecederos.',
+      'Creación de pruebas de concepto y participar en el proceso de presentación a los clientes.',
     ],
   },
 ];
