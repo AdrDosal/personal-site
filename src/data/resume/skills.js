@@ -1,23 +1,18 @@
 const skills = [
   {
     title: 'Javascript',
-    competency: 4,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    competency: 1,
+    category: ['Web Development', 'Languages'],
   },
   {
     title: 'Node.JS',
-    competency: 5,
-    category: ['Web Development', 'Javascript'],
+    competency: 1,
+    category: ['Web Development'],
   },
   {
     title: 'React',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'Next.JS',
-    competency: 3,
-    category: ['Web Development', 'Javascript'],
+    competency: 1,
+    category: ['Web Development'],
   },
   {
     title: 'Bash',
@@ -25,19 +20,9 @@ const skills = [
     category: ['Tools', 'Languages'],
   },
   {
-    title: 'Amazon Web Services',
-    competency: 4,
-    category: ['Web Development', 'Tools'],
-  },
-  {
-    title: 'Heroku',
-    competency: 2,
-    category: ['Web Development', 'Tools'],
-  },
-  {
     title: 'MongoDB',
     competency: 3,
-    category: ['Web Development', 'Databases'],
+    category: ['Databases', 'Web Development'],
   },
   {
     title: 'ElasticSearch',
@@ -45,29 +30,14 @@ const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'PostgreSQL/SQLite3/SQL/Redshift',
-    competency: 4,
-    category: ['Web Development', 'Databases', 'Languages'],
-  },
-  {
-    title: 'Redis',
-    competency: 3,
-    category: ['Web Development', 'Databases'],
+    title: 'SQL',
+    competency: 5,
+    category: ['Languages', 'Web Development', 'Databases'],
   },
   {
     title: 'Data Mining',
     competency: 3,
     category: ['ML Engineering'],
-  },
-  {
-    title: 'Express.JS',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
-  },
-  {
-    title: 'D3',
-    competency: 2,
-    category: ['Web Development', 'Javascript'],
   },
   {
     title: 'Flask',
@@ -80,13 +50,13 @@ const skills = [
     category: ['Web Development', 'Python'],
   },
   {
-    title: 'Git/Mercurial',
+    title: 'Git/Mercurial/Tortoise',
     competency: 3,
     category: ['Tools'],
   },
   {
     title: 'Kubernetes',
-    competency: 2,
+    competency: 1,
     category: ['Tools', 'Data Engineering'],
   },
   {
@@ -96,7 +66,12 @@ const skills = [
   },
   {
     title: 'AWS',
-    competency: 3,
+    competency: 2,
+    category: ['Tools', 'Web Development'],
+  },
+  {
+    title: 'Azure',
+    competency: 4,
     category: ['Tools', 'Web Development'],
   },
   {
@@ -105,19 +80,14 @@ const skills = [
     category: ['Tools', 'Data Engineering'],
   },
   {
-    title: 'AWS Lambda',
-    competency: 3,
-    category: ['Tools', 'Web Development'],
-  },
-  {
     title: 'Numpy',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Data Engineering', 'Python', 'ML Engineering'],
   },
   {
-    title: 'Numba',
-    competency: 2,
-    category: ['Data Science', 'Data Engineering', 'Python'],
+    title: 'Databricks',
+    competency: 4,
+    category: ['Data Science', 'Data Engineering', 'Python', 'Tools', 'ML Engineering'],
   },
   {
     title: 'Tensorflow + Keras',
@@ -126,22 +96,17 @@ const skills = [
   },
   {
     title: 'PyTorch',
-    competency: 3,
+    competency: 2,
     category: ['ML Engineering', 'Python'],
   },
   {
     title: 'Jupyter',
-    competency: 3,
+    competency: 4,
     category: ['Data Science', 'Python'],
   },
   {
-    title: 'Typescript',
-    competency: 3,
-    category: ['Web Development', 'Languages', 'Javascript'],
-  },
-  {
     title: 'HTML + SASS/SCSS/CSS',
-    competency: 3,
+    competency: 2,
     category: ['Web Development', 'Languages'],
   },
   {
@@ -150,44 +115,24 @@ const skills = [
     category: ['Languages', 'Python', 'ML Engineering'],
   },
   {
-    title: 'Ruby',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'Ruby on Rails',
-    competency: 3,
-    category: ['Web Development', 'Languages'],
-  },
-  {
     title: 'C++',
     competency: 1,
     category: ['Languages'],
   },
   {
-    title: 'Julia',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
-    title: 'MATLAB',
-    competency: 2,
-    category: ['Languages'],
-  },
-  {
     title: 'R',
-    competency: 2,
+    competency: 4,
     category: ['Languages'],
   },
   {
     title: 'Data Visualization',
-    competency: 3,
-    category: ['Data Science', 'Javascript'],
+    competency: 4,
+    category: ['Data Science'],
   },
   {
-    title: 'GraphQL',
+    title: 'Neo4j',
     competency: 2,
-    category: ['Web Development', 'Databases'],
+    category: ['Databases'],
   },
   {
     title: 'Pandas',
@@ -206,18 +151,88 @@ const skills = [
   },
   {
     title: 'Spark',
-    competency: 2,
-    category: ['Data Engineering', 'ML Engineering'],
+    competency: 4,
+    category: ['Data Engineering', 'ML Engineering', 'Python'],
   },
   {
-    title: 'Dagster',
-    competency: 2,
-    category: ['Data Engineering', 'Python', 'ML Engineering'],
-  },
-  {
-    title: 'Mypy',
+    title: 'PowerCenter',
     competency: 3,
-    category: ['Python'],
+    category: ['Data Engineering'],
+  },
+  {
+    title: 'SSIS',
+    competency: 3,
+    category: ['Data Engineering'],
+  },
+  {
+    title: 'SSAS',
+    competency: 3,
+    category: ['Data Engineering'],
+  },
+  {
+    title: 'SSRS',
+    competency: 3,
+    category: ['Business Intelligence'],
+  },
+  {
+    title: 'Power BI',
+    competency: 2,
+    category: ['Business Intelligence'],
+  },
+  {
+    title: 'OBIEE',
+    competency: 3,
+    category: ['Data Engineering', 'Business Intelligence'],
+  },
+  {
+    title: 'AzureSQL',
+    competency: 4,
+    category: ['Data Engineering', 'Databases'],
+  },
+  {
+    title: 'Databricks Datawarehouse',
+    competency: 3,
+    category: ['Data Engineering', 'Databases'],
+  },
+  {
+    title: 'Oracle SQL',
+    competency: 4,
+    category: ['Data Engineering', 'Databases'],
+  },
+  {
+    title: 'SQL Server',
+    competency: 4,
+    category: ['Data Engineering', 'Databases'],
+  },
+  {
+    title: 'Netezza',
+    competency: 2,
+    category: ['Data Engineering', 'Databases'],
+  },
+  {
+    title: 'PostgreSQL',
+    competency: 3,
+    category: ['Data Engineering', 'Databases'],
+  },
+  {
+    title: 'Azure Container Registry',
+    competency: 2,
+    category: ['Data Engineering', 'Tools', 'Web Development'],
+  },
+  {
+    title: 'Azure Container Instances',
+    competency: 3,
+    category: ['Data Engineering', 'Tools', 'Web Development'],
+  },
+  {
+    title: 'Azure Blob Storage',
+    competency: 4,
+    category: ['Data Engineering', 'Tools'],
+  },
+  {
+    title: 'Azure Cognitive Services',
+    competency: 2,
+    category: ['Data Engineering', 'Data Science', 'ML Engineering', 'Tools'],
   },
   {
     title: 'Pylint',

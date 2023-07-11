@@ -17,32 +17,30 @@ const work = [
     position: 'Ingeniero de Datos en Azure',
     url: 'https://www.hiberus.com/',
     startDate: '2022-07',
-    summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
-    used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
-    I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
-    and facilitate alignment and clarity across teams on goals, outcomes, and timelines. I was promoted
-    from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering and Head
-    of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8 engineers and spend
-    >50% of my time writing code.`,
+    summary: `Hiberus es una de las principales consultoras tecnológicas españolas que trabaja con un gran número de clientes.
+    Desde que entré a formar parte de la compañia, he trabajado de forma exclusiva en entornos cloud, especialmente en Azure
+    con un rol de Ingeniero de Datos.`,
     highlights: [
-      'Redesigned engineering processes for bug tracking, meetings, and standups. Improved culture for code reviews, blameless post-mortems, and retrospectives.',
-      'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
-      'Reorged engineering teams to focus on product delivery. Created a new team to focus on ML infrastructure.',
-      'Lead re-design of internal APIs for inference. Built new computer vision pipelines for industry leading certifications (NIST/iBeta liveness).',
-      'Pitched, designed, developed, deployed, and maintain a fraud detection product based on 1-N facial recognition using embeddings and vector search.',
+      'Creación de ETLs en entornos clouds, principalmente Databricks.',
+      'Aprovisionamiento de recursos en el entorno de Azure, desde su creación y mantenimiento, incluyendo permisos y sus redes',
+      'Creación de APIs REST para que nuestros clientes puedan obtener la información necesaria.',
+      'Desarrollo de la arquitectura en la nube del proyecto, eligiendo los recursos de Azure que mejor se adaptan a las necesidades requeridas.',
+      'Crear contenedores de Docker de aplicaciones propias y su despliegue bajo demanda en la nube de Azure.',
     ],
   },
   {
     name: 'Bahía Sofware',
-    position: 'Senior Software Engineer',
+    position: 'Ingeniero de Datos',
     url: 'http://skepticalinvestments.biz',
     startDate: '2021-09',
     endDate: '2022-07',
-    summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
-    YC companies.`,
+    summary: `Bahía Software es una consultora IT española.
+    Durante mi tiempo en la compañia trabajé principalmente como Ingeniero de Datos para clientes en la Administración Pública y
+    la empresa privada.`,
     highlights: [
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
-      'Advise several startups in the fund.',
+      'Creación de ETL, principalmente en entornos/herramientas de Microsoft.',
+      'Generación de informes requeridos por los diferentes clientes.',
+      'Detección del fraude a través de técnicas de machine learning.',
     ],
   },
   {
@@ -55,11 +53,10 @@ const work = [
     trabajando principalmente en un rol de Ingeniero de Datos y cómo Científico de Datos cuando la situación lo requiriese.
     Durante los años que estuve en Capgemini, he trabajado para diversos clientes en varios sectores.`,
     highlights: [
-      'Built production, online, end-to-end optimized machine learning pipelines for time-series prediction.',
-      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      "Set and communicated team priorities that supported the broader organization's goals. Aligned strategy, processes, and decision-making across teams.",
-      "Set clear expectations with individuals based on their level and role and aligned them to the broader organization's goals. Met regularly with individuals to discuss performance and development, and provided feedback and coaching.",
-      'Developed the long-term technical vision and roadmap within, and often beyond, the scope of my teams. Evolved the roadmap to meet anticipated future requirements and infrastructure needs.',
+      'Construcción de ETL, desde la recepción de los datos en diversos orignes, su transformación hasta su carga en el datawarehouse.',
+      'Creación de informes con diferentes herramientas de visualización según las necesidades del cliente.',
+      'Participación en la migración de base de datos del cliente, modificando los procesos de carga para adaptarlos a nuevos estandares.',
+      'Colaboración en la creación de diferentes modelos de machine learning en diferentes áreas temáticas (computer vision, chatbot, log analytics, forecasting...).',
     ],
   },
   {
