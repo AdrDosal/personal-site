@@ -18,11 +18,11 @@ const getRows = (courses) => courses.sort((a, b) => {
   />
 ));
 
-const Courses = ({ data }) => (
+const Certificaciones = ({ data }) => (
   <div className="courses">
-    <div className="link-to" id="courses" />
+    <div className="link-to" id="certificaciones" />
     <div className="title">
-      <h3>Selected Courses</h3>
+      <h3>Certificaciones</h3>
     </div>
     <ul className="course-list">
       {getRows(data)}
@@ -30,7 +30,7 @@ const Courses = ({ data }) => (
   </div>
 );
 
-Courses.propTypes = {
+Certificaciones.propTypes = {
   data: PropTypes.arrayOf(PropTypes.shape({
     title: PropTypes.string,
     number: PropTypes.string,
@@ -39,8 +39,8 @@ Courses.propTypes = {
   })),
 };
 
-Courses.defaultProps = {
+Certificaciones.defaultProps = {
   data: [],
 };
 
-export default Courses;
+export default Certificaciones;

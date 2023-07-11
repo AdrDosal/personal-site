@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Course = ({ data, last }) => (
+const Certificacion = ({ data, last }) => (
   <li className="course-container">
     <a href={data.link}>
       <h4 className="course-number">{data.number}:</h4>
@@ -11,7 +11,7 @@ const Course = ({ data, last }) => (
   </li>
 );
 
-Course.propTypes = {
+Certificacion.propTypes = {
   data: PropTypes.shape({
     link: PropTypes.string.isRequired,
     number: PropTypes.string.isRequired,
@@ -20,8 +20,8 @@ Course.propTypes = {
   last: PropTypes.bool,
 };
 
-Course.defaultProps = {
+Certificacion.defaultProps = {
   last: false,
 };
 
-export default Course;
+export default Certificacion;
