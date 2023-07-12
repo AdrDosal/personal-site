@@ -1,9 +1,9 @@
 
 # Introducción
 
-Soy Ingeniero de Datos en [Hiberus Tecnología](https://www.hiberus.com), especializado en tecnologia de Azure. En este tiempo he trabajado para un diverso numero de clientes en el sector turístico y laboral. Antes de eso he estado trabajando para [Bahía Software](https://bahiasoftware.es) y [Capgemini](https://www.capgemini.com/).
+Soy Ingeniero de Datos en [Hiberus Tecnología](https://www.hiberus.com), especializado en tecnología de Azure. En este tiempo he trabajado para un diverso número de clientes en el sector turístico y laboral. Antes de eso he estado trabajando para [Bahía Software](https://bahiasoftware.es) y [Capgemini](https://www.capgemini.com/).
 
-# Algo de historía
+# Algo de historia
 
 - La primera mitad de mi vida, hasta los 18 años he estado viviendo en la pequeña villa de [Llanes](https://es.wikipedia.org/wiki/Llanes). Un lugar bonito y muy recomendable de visitar.
 
@@ -13,11 +13,11 @@ Soy Ingeniero de Datos en [Hiberus Tecnología](https://www.hiberus.com), especi
 
 - A los 14 años salí de España por primera vez para ir a Francia y disfrutar de París.
 
-- A los 16 años fuí a Italia, descubriendo las maravillas de Roma, Venecia, Florencia...
+- A los 16 años fui a Italia, descubriendo las maravillas de Roma, Venecia, Florencia...
 
 - Empecé la Licenciatura de Economía en la Universidad de Valencia en 2008, justo cuando comenzaba la Crisis Económica.
 
-- En 2012 fuí a Estados Unidos como estudiante de intercambio durante un semestre en la [Universidad de Texas en Austin](https://www.utexas.edu/). También fue la primera vez que subía a un avión y para hacer un viaje transatlantico nada menos.
+- En 2012 fui a Estados Unidos como estudiante de intercambio durante un semestre en la [Universidad de Texas en Austin](https://www.utexas.edu/). También fue la primera vez que subía a un avión y para hacer un viaje transatlántico nada menos.
 
 # Me gusta
 

@@ -13,11 +13,11 @@ const Contact = () => (
     <article className="post" id="contact">
       <header>
         <div className="title">
-          <h2><Link to="/contact">Contacta</Link></h2>
+          <h2><Link to="/contact">Contacto</Link></h2>
         </div>
       </header>
       <div className="email-at">
-        <p>Sientete libre de contactar por email a: </p>
+        <p>Siéntete libre de contactar por email a: </p>
         <EmailLink />
       </div>
       <ContactIcons />

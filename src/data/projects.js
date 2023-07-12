@@ -1,47 +1,65 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
+    title: 'Administración Pública relativa al mercado laboral',
+    // subtitle: '2015 BVP Hackathon',
     image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    // date: '20-11-20', PREESENTE
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Construcción de ETLs en Databricks utilizando pyspark y dbt. '
+      + 'Creado una API REST con tokens para que el cliente pudiese acceder a los datos. '
+      + 'Trabajado con Docker para trabajar con contenedores. '
+      + 'Utilizar modelos de machine learning y de OpenAI para encontrar similitudes entre textos.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
+    title: 'Empresa tecnológica',
+    // subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
+    // link: 'https://devpost.com/software/harvest',
     image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    // date: '2015-09-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Planificación de la arquitectura y la creación de recursos en Azure. '
+      + 'Creación de ETLs en Databricks. '
+      + 'Gestión y supervisión de las cargas diarias de la información.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
+    title: 'Administración Pública relativa al sector turístico',
+    // subtitle: 'A kickstarter funded potato powered weather balloon.',
+    // link: 'http://www.spacepotato.org',
     image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    date: '2022-10',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Construcción de ETLs en Databricks. '
+      + 'Gestión y supervisión de las cargas diarias de la información.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+    title: 'Administración Pública relativa a la economía',
+    // subtitle: 'A convolutional neural network to classify cats! (and dogs)',
     image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    date: '2022-07',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Construcción de ETLs utilizando SSIS. '
+      + 'Modelización de los datos con SSAS. '
+      + 'Creación de informes con SSRS y Power BI.',
+  },
+  {
+    title: 'Administración Pública relativa al sector sanitario',
+    // subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+    image: '/images/projects/catdetector.jpg',
+    date: '2021-09',
+    desc:
+      'Construcción de ETLs utilizando PowerCenter. '
+      + 'Modelización de los datos con OBIEE. '
+      + 'Creación de informes con OBIEE.',
+  },
+  {
+    title: 'Empresa del sector retail',
+    // subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+    image: '/images/projects/catdetector.jpg',
+    date: '2020-02',
+    desc:
+      'Construcción de ETLs utilizando C++, bash y SQL. '
+      + 'Migración de base de datos y entornos, modificando las ETLs con sintaxis actualizada.',
   },
 ];
 

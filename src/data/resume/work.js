@@ -18,7 +18,7 @@ const work = [
     url: 'https://www.hiberus.com/',
     startDate: '2022-07',
     summary: `Hiberus es una de las principales consultoras tecnológicas españolas que trabaja con un gran número de clientes.
-    Desde que entré a formar parte de la compañia, he trabajado de forma exclusiva en entornos cloud, especialmente en Azure
+    Desde que entré a formar parte de la compañía, he trabajado de forma exclusiva en entornos cloud, especialmente en Azure
     con un rol de Ingeniero de Datos.`,
     highlights: [
       'Creación de ETLs en entornos clouds, principalmente Databricks.',
@@ -35,7 +35,7 @@ const work = [
     startDate: '2021-09',
     endDate: '2022-07',
     summary: `Bahía Software es una consultora IT española.
-    Durante mi tiempo en la compañia trabajé principalmente como Ingeniero de Datos para clientes en la Administración Pública y
+    Durante mi tiempo en la compañía trabajé principalmente como Ingeniero de Datos para clientes en la Administración Pública y
     la empresa privada.`,
     highlights: [
       'Creación de ETL, principalmente en entornos/herramientas de Microsoft.',
@@ -53,20 +53,20 @@ const work = [
     trabajando principalmente en un rol de Ingeniero de Datos y cómo Científico de Datos cuando la situación lo requiriese.
     Durante los años que estuve en Capgemini, he trabajado para diversos clientes en varios sectores.`,
     highlights: [
-      'Construcción de ETL, desde la recepción de los datos en diversos orignes, su transformación hasta su carga en el datawarehouse.',
+      'Construcción de ETL, desde la recepción de los datos en diversos orígenes, su transformación hasta su carga en el datawarehouse.',
       'Creación de informes con diferentes herramientas de visualización según las necesidades del cliente.',
-      'Participación en la migración de base de datos del cliente, modificando los procesos de carga para adaptarlos a nuevos estandares.',
+      'Participación en la migración de base de datos del cliente, modificando los procesos de carga para adaptarlos a nuevos estándares.',
       'Colaboración en la creación de diferentes modelos de machine learning en diferentes áreas temáticas (computer vision, chatbot, log analytics, forecasting...).',
     ],
   },
   {
     name: 'Capgemini',
-    position: 'Becario Cientifico de Datos',
+    position: 'Becario Científico de Datos',
     url: 'https://www.capgemini.com',
     startDate: '2018-10',
     endDate: '2019-02',
-    summary: `Capgemini es una empresa global de consultoria, servicios de tecnología y transformación digital.
-    Una vez finalizada mi formación en el master de Ciencia de Datos, entré como becario Cientifico de Datos.
+    summary: `Capgemini es una empresa global de consultoría, servicios de tecnología y transformación digital.
+    Una vez finalizada mi formación en el master de Ciencia de Datos, entré como becario Científico de Datos.
     Durante la estancia en Capgemini he podido aplicar mis conocimientos teóricos en problemas reales.`,
     highlights: [
       'Creación de un cuadro de mando y mostrase los resultados de un modelo de machine learning sobre detección de anomalías.',
