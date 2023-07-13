@@ -17,8 +17,8 @@ const work = [
     position: 'Ingeniero de Datos en Azure',
     url: 'https://www.hiberus.com/',
     startDate: '2022-07',
-    summary: `Hiberus es una de las principales consultoras tecnológicas españolas que trabaja con un gran número de clientes.
-    Desde que entré a formar parte de la compañía, he trabajado de forma exclusiva en entornos cloud, especialmente en Azure
+    summary: `Hiberus es una de las principales consultoras tecnológicas españolas y que trabaja con un gran número de clientes.
+    Desde que entré a formar parte de la compañía, he trabajado de forma exclusiva en entornos cloud, especialmente en Azure,
     con un rol de Ingeniero de Datos.`,
     highlights: [
       'Creación de ETLs en entornos clouds, principalmente Databricks.',
@@ -31,7 +31,7 @@ const work = [
   {
     name: 'Bahía Sofware',
     position: 'Ingeniero de Datos',
-    url: 'http://skepticalinvestments.biz',
+    url: 'https://bahiasoftware.es/',
     startDate: '2021-09',
     endDate: '2022-07',
     summary: `Bahía Software es una consultora IT española.

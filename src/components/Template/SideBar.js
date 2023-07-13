@@ -18,15 +18,15 @@ const SideBar = () => (
     </section>
 
     <section className="blurb">
-      <h2>About</h2>
+      {/* <h2>Sobre</h2> */}
       <p>Hola, soy Adrian Dosal. Graduado en la <a href="https://www.uv.es/">Universidad de Valencia </a>
-        e Ingeniero de Datos en Azure, trabajando actualmente en <a href="https://www.hiberus.com/">Hiberus Tecnología</a>.
-        Anteriormente he trabajado para <a href="https://bahiasoftware.es">Bahía Software</a> y
+        e Ingeniero de Datos en Azure. Trabajo actualmente en <a href="https://www.hiberus.com/">Hiberus Tecnología</a> y
+        anteriormente he trabajado para <a href="https://bahiasoftware.es">Bahía Software</a> y
         <a href="https://www.capgemini.com/es-es/"> Capgemini</a>.
       </p>
       <ul className="actions">
         <li>
-          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Aprende más</Link> : <Link to="/about" className="button">Sobre mí</Link>}
+          {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Curriculum</Link> : <Link to="/about" className="button">Sobre mí</Link>}
         </li>
       </ul>
     </section>

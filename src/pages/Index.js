@@ -6,15 +6,14 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={'Página personal de Adrian Dosal Amor. Ingeniero de Datos en la nube, '
-    + 'actualmente trabaja para Hiberus y alumni de la Universidad de Valencia.'}
+      + 'actualmente trabaja para Hiberus y alumni de la Universidad de Valencia.'}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
           <h2><Link to="/">Acerca de esta página</Link></h2>
           <p>
-            Una página personal en React con Javascript
-            que se adapta a cualquier tamaño de pantalla.
+            Una sencilla página personal en React con Javascript.
           </p>
         </div>
       </header>
@@ -25,7 +24,7 @@ const Index = () => (
         {/* view <Link to="/stats">site statistics</Link>, {' '} */}
         o <Link to="/contact">contactarme</Link>.
       </p>
-      <p> Código de la página disponible <a href="https://github.com/AdrDosal/personal-site">aquí</a>.</p>
+      <p>El código de la página disponible <a href="https://github.com/AdrDosal/personal-site">aquí</a>.</p>
     </article>
   </Main>
 );
