@@ -7,9 +7,9 @@ const data = [
     // date: '20-11-20', PREESENTE
     desc:
       'Construcción de ETLs en Databricks utilizando pyspark y dbt. '
-      + 'Creado una API REST con tokens para que el cliente pudiese acceder a los datos. '
-      + 'Trabajado con Docker para trabajar con contenedores. '
-      + 'Utilizar modelos de machine learning y de OpenAI para encontrar similitudes entre textos.',
+      + 'Creación de una API REST con tokens para que el cliente pueda acceder a los datos. '
+      + 'Desarrollo de contenedores de Docker y su despliegue bajo demanda en la nube de Azure. '
+      + 'Utilización de modelos de machine learning y de OpenAI para encontrar similitudes entre textos.',
   },
   {
     title: 'Empresa tecnológica',
@@ -20,7 +20,9 @@ const data = [
     desc:
       'Planificación de la arquitectura y la creación de recursos en Azure. '
       + 'Creación de ETLs en Databricks. '
-      + 'Gestión y supervisión de las cargas diarias de la información.',
+      + 'Gestión y supervisión de las cargas diarias de la información. '
+      + 'Implementación de flujo de datos y la programación de trabajaos de procesamiento de datos batch. '
+      + 'Optimización de rendimiento de las tablas y los procesos de carga. ',
   },
   {
     title: 'Administración Pública relativa al sector turístico',
@@ -29,8 +31,9 @@ const data = [
     image: '/images/projects/tourism.png',
     date: '2022-10',
     desc:
-      'Construcción de ETLs en Databricks. '
-      + 'Gestión y supervisión de las cargas diarias de la información.',
+      'Construcción de ETLs en Databricks desde diferentes orígenes. '
+      + 'Gestión y supervisión de las cargas diarias de los datos. '
+      + 'Predicción de viajeros mediante técnicas de machine learning.',
   },
   {
     title: 'Administración Pública relativa a la economía',
@@ -39,8 +42,8 @@ const data = [
     date: '2022-07',
     desc:
       'Construcción de ETLs utilizando SSIS. '
-      + 'Modelización de los datos con SSAS. '
-      + 'Creación de informes con SSRS y Power BI.',
+      + 'Modelización de los datos y creación de cubos OLAP con SSAS. '
+      + 'Creación de informes y cuadros de mando con SSRS y Power BI.',
   },
   {
     title: 'Administración Pública relativa al sector sanitario',
@@ -49,8 +52,8 @@ const data = [
     date: '2021-09',
     desc:
       'Construcción de ETLs utilizando PowerCenter. '
-      + 'Modelización de los datos con OBIEE. '
-      + 'Creación de informes con OBIEE.',
+      + 'Modelización de los datos con OBIEE y cubos OLAP. '
+      + 'Creación de informes y cuadros de mando con OBIEE.',
   },
   {
     title: 'Empresa del sector retail',
@@ -59,6 +62,8 @@ const data = [
     date: '2020-02',
     desc:
       'Construcción de ETLs utilizando C++, bash y SQL. '
+      + 'Modelado de datos. '
+      + 'Implementación de flujos de datos en batch. '
       + 'Migración de base de datos y entornos, modificando las ETLs con sintaxis actualizada.',
   },
 ];
