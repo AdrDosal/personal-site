@@ -2,20 +2,20 @@
 
 <!-- See: [mldangelo.com](https://mldangelo.com). -->
 
-My personal website. An [MIT](https://github.com/mldangelo/personal-site/blob/main/LICENSE) licensed, simple, easily modifiable, statically-exportable [React](https://reactjs.org/), [Jamstack](https://jamstack.org/) application that deploys automatically for free using [github pages](https://pages.github.com/). Built using modern javascript, based on [create-react-app](https://github.com/facebook/create-react-app) with [React-Router](https://reactrouter.com/), SCSS, [github actions](https://github.com/features/actions), and many other useful technologies.
+Página web personal. Utiliza la licencia [MIT](https://github.com/AdrDosal/personal-site/blob/main/LICENSE) , simple, facilmente modificable, exportable [React](https://reactjs.org/), [Jamstack](https://jamstack.org/) aplicación que despliega gratis en [github pages](https://pages.github.com/). Construida con JavaScript moderno, basado en [create-react-app](https://github.com/facebook/create-react-app) con [React-Router](https://reactrouter.com/), SCSS, [github actions](https://github.com/features/actions), y otras muchas tecnologías.
 
-## Dependencies
+## Dependencias
 
-Tested with: [node](https://nodejs.org/) >= v14 and optional [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) for managing node versions.
+Probar con: [node](https://nodejs.org/) >= v14 y opcional [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) para mantimiento de versiones.
 
-## Set up
+## Preparación
 
-To download the repository and install dependencies, run the following commands:
+Descargar el repositorio e instalar las dependencias, ejecutar los siguientes comandos:
 
 ```bash
 git clone https://github.com/AdrDosal/personal-site.git
 cd personal-site
-nvm install # this is optional - make sure you're running >= node 14 with `node --version`
+nvm install # asegurarse de que tenemos node 14 o superior
 npm install
 ```
 
