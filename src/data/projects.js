@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Administración Pública relativa al mercado laboral',
     // subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
+    image: '/images/projects/office.png',
     // date: '20-11-20', PREESENTE
     desc:
       'Construcción de ETLs en Databricks utilizando pyspark y dbt. '
@@ -15,7 +15,7 @@ const data = [
     title: 'Empresa tecnológica',
     // subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
     // link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
+    image: '/images/projects/technology.png',
     // date: '2015-09-20',
     desc:
       'Planificación de la arquitectura y la creación de recursos en Azure. '
@@ -26,7 +26,7 @@ const data = [
     title: 'Administración Pública relativa al sector turístico',
     // subtitle: 'A kickstarter funded potato powered weather balloon.',
     // link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
+    image: '/images/projects/tourism.png',
     date: '2022-10',
     desc:
       'Construcción de ETLs en Databricks. '
@@ -35,7 +35,7 @@ const data = [
   {
     title: 'Administración Pública relativa a la economía',
     // subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
+    image: '/images/projects/economy.png',
     date: '2022-07',
     desc:
       'Construcción de ETLs utilizando SSIS. '
@@ -45,7 +45,7 @@ const data = [
   {
     title: 'Administración Pública relativa al sector sanitario',
     // subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
+    image: '/images/projects/healthcare.png',
     date: '2021-09',
     desc:
       'Construcción de ETLs utilizando PowerCenter. '
@@ -55,7 +55,7 @@ const data = [
   {
     title: 'Empresa del sector retail',
     // subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
+    image: '/images/projects/retail.png',
     date: '2020-02',
     desc:
       'Construcción de ETLs utilizando C++, bash y SQL. '
