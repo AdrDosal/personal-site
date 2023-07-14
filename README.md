@@ -19,26 +19,25 @@ nvm install # this is optional - make sure you're running >= node 14 with `node 
 npm install
 ```
 
-## Running
+## Ejecutar
 
-Run the following command to build the react application and serve it with fast refresh:
+Ejecutar el siguiente comando para lanzar la aplicación y el servidor con refresco:
 
 ```bash
 npm start
 ```
+El navegador se abrirá de forma automática en el `<ip>:<port>:<path>` por defecto: [http://localhost:3000/](http://localhost:3000/).
 
-Your web browser should automatically open to `<ip>:<port>:<path>` default: [http://localhost:3000/](http://localhost:3000/).
+## Despliegue
 
-## Deploying
+### Despliegue en Github pages
 
-### Deploying to Github Pages
+1. Modificar las variables de entorno y realizar git remote url en  [`.github/workflows/github-pages.yml`](.github/workflows/github-pages.yml).
+2. Modificar `homepage` en `package.json` para que apunte hasta donde queremos alojar nuestra web. Si no queremos utilizar un dominio personalizado, se mostrará cómo `https://[your-gh-username].github.io/[repository-name - default:personal-site]/`
+3. En caso de utilizar un dominio personalizado, modificar `public/CNAME`. Si no, borrar el `public/CNAME`.
 
-1. Modify the environmental variables and git remote url in [`.github/workflows/github-pages.yml`](.github/workflows/github-pages.yml).
-2. Modify `homepage` in `package.json` to point to where you plan to host your site. If you do not plan on using a custom domain name, it should look like `https://[your-gh-username].github.io/[repository-name - default:personal-site]/`
-3. If you plan on using a custom domain, modify `public/CNAME`. If you don't, delete `public/CNAME`.
+Realizar commit a `main` y push los cambios.
 
-Make a commit to `main` and push your changes. That's it.
+### Exportar estático
 
-### Static Export
-
-To statically export the site without deploying to github pages, delete or disable `.github/workflows/github-pages.yml` and run `npm run predeploy`. This generates a static export of the website as `personal-site/build/`. Copy this and self-host or deploy to a CDN.
+Para exportar de forma estática el sitio sin desplegarlo en github pages, borrar o deshabilitar `.github/workflows/github-pages.yml` y ejecutar `npm run predeploy`. Esto generará una exportación estática de la página web como `personal-site/build/`. Copiar esto y desplegarla en un CDN.
