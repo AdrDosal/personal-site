@@ -14,6 +14,7 @@ const Index = () => (
           <h2><Link to="/">Acerca de esta página</Link></h2>
           <p>
             Una sencilla página personal en React con Javascript.
+            {/* You are running this application in{process.env.NODE_ENV} */}
           </p>
         </div>
       </header>

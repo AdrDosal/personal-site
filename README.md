@@ -2,7 +2,7 @@
 
 <!-- See: [mldangelo.com](https://mldangelo.com). -->
 
-Página web personal. Utiliza la licencia [MIT](https://github.com/AdrDosal/personal-site/blob/main/LICENSE) , simple, facilmente modificable, exportable [React](https://reactjs.org/), [Jamstack](https://jamstack.org/) aplicación que despliega gratis en [github pages](https://pages.github.com/). Construida con JavaScript moderno, basado en [create-react-app](https://github.com/facebook/create-react-app) con [React-Router](https://reactrouter.com/), SCSS, [github actions](https://github.com/features/actions), y otras muchas tecnologías.
+Página web personal. Utiliza la licencia [MIT](https://github.com/AdrDosal/personal-site/blob/main/LICENSE), simple, facilmente modificable, exportable [React](https://reactjs.org/), [Jamstack](https://jamstack.org/) aplicación que despliega gratis en [github pages](https://pages.github.com/). Construida con JavaScript moderno, basado en [create-react-app](https://github.com/facebook/create-react-app) con [React-Router](https://reactrouter.com/), SCSS, [github actions](https://github.com/features/actions), y otras muchas tecnologías.
 
 ## Dependencias
 
