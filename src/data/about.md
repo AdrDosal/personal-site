@@ -7,13 +7,13 @@ En [Hiberus Tecnología](https://www.hiberus.com), colaboro en proyectos innovad
 
 # Algo de historia
 
-Nací en la villa de [Llanes](https://es.wikipedia.org/wiki/Llanes) y dónde he vivido hasta terminar mi educación secundaria. Uno de los principales destinos turísticos de Asturias. Vivir en Llanes también me brindó la oportunidad de conectarme con la naturaleza y desarrollar un profundo amor por el medio ambiente.<br>
+Nací en la villa de [Llanes](https://es.wikipedia.org/wiki/Llanes), dónde he vivido hasta terminar mi educación secundaria. Uno de los principales destinos turísticos de Asturias. Vivir en Llanes me brindó la oportunidad de conectarme con la naturaleza y desarrollar un profundo amor por el medio ambiente.<br>
 <br>
-Desde pequeño siempre me he interesado por la tecnología, a los 5 años recibí una GameBoy con el Tetris y fue el comienzo de mi pasión por la tecnología y videojuegos. A medida que fui creciendo, mi fascinación por la tecnología y los videojuegos se hizo cada vez más evidente. Con el tiempo, mi interés por la tecnología se expandió y comencé a investigar sobre computadoras, software y nuevas innovaciones tecnológicas.<br>
+Desde pequeño siempre me he interesado por la tecnología, a los 5 años recibí una GameBoy con el Tetris y fue el comienzo de mi pasión por la tecnología y videojuegos. A medida que fui creciendo, mi fascinación por la tecnología y los videojuegos se hizo cada vez más evidente. Con el tiempo, mi interés se expandió y comencé a investigar sobre computadoras, software y nuevas innovaciones.<br>
 <br>
 Desde que compré El Señor de los Anillos alrededor de los 12 años, a partir de ese momento siempre he tenido un libro cerca, ya sea físico o con un lector electrónico.<br>
 <br>
-Disfruto viajando, aunque al final no he podido visitar tantos paises como me gustaría. Mis paises favoritos en los que he estado son Italia, Estados Unidos y Francia. Espero poder visitar Japón proximamente, eliminando uno de los puntos importantes de destinos pendientes.<br>
+Disfruto viajando, aunque al final no he podido visitar tantos paises como me gustaría. Los paises favoritos entre en los que he estado son Italia, Estados Unidos y Francia. Espero poder visitar Japón proximamente, eliminando uno de los puntos importantes de destinos pendientes.<br>
 <br>
 Empecé la Licenciatura de Economía en la Universidad de Valencia en 2008, justo cuando comenzó la Crisis Económica. Experimentar hechos tan impactantes en la historia desde un lugar en el que puedes conocer las causas y las consecuencias con gran nivel de detalle ha sido una importante lección.<br>
 <br>
@@ -27,3 +27,4 @@ Después de terminar la licenciatura, decidí continuar mi formación académica
 - Jugar a videojuegos, intentando reducir la lista de juegos pendientes
 - Anime y Manga
 - Podcasts
+- Espacio
