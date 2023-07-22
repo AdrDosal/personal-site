@@ -24,7 +24,7 @@ Después de terminar la licenciatura, decidí continuar mi formación académica
 # Me gusta
 
 - Leer y recomendar "La Rueda del Tiempo"
-- Jugar a videojuegos, intentando reducir la lista de juegos pendientes
-- Anime y Manga
+- Videojuegos
+- Anime
 - Podcasts
-- Espacio
+- Ciencia
